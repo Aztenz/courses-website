@@ -1,2 +1,2 @@
 # courses-website
-Website for pirates student activity that offers free courses
+Website for a student activity that offers free courses
